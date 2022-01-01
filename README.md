@@ -11,7 +11,6 @@
 
 
 
-
 <p align="center"># TECH STACK
 
 <p align="center">This Techs that I've Studied 
@@ -24,6 +23,19 @@
      Good Day! I am Tae Hyeong Kim who is interested in AI, Data Science from South Korea.
    
      HAVE A GOOD DAY!
+  
+  
+  
+  
+  
+  
+  
+  
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dhy02094&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy)
+
+
   
   
   
