@@ -2,7 +2,14 @@
 
 
 
-### Hi REPAIR THIS SITE 👋
+### Hi there 👋
+  
+     Good Day! I am Tae Hyeong Kim who is interested in AI, Data Science from South Korea.
+   
+     HAVE A GOOD DAY!
+  
+  
+  
 
 <!--
 **dhy02094/dhy02094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
