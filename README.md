@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?text=Tbro Research&type=rounded&color=auto&height=300&section=footer&%20render&fontSize=90" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?text=Tbro AI Research&type=rounded&color=auto&height=300&section=footer&%20render&fontSize=80" />
 
 
 
