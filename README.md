@@ -25,15 +25,12 @@
      HAVE A GOOD DAY!
   
   
+
+ 
   
   
-  
-  
-  
-  
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dhy02094&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy)
+<p align="left"><img src = "https://github-readme-stats.vercel.app/api?username=dhy02094&show_icons=true&theme=buefy">
+<p align="left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy"> 
 
 
   
