@@ -1,3 +1,5 @@
+
+
 <p align="center"><img src="https://capsule-render.vercel.app/api?text=Tbro AI Research&type=rounded&color=auto&height=300&section=footer&%20render&fontSize=80" />
 
 
@@ -31,9 +33,7 @@
   
 <p align="left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy"> 
 
-
-  
-  
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhy02094)](https://solved.ac/dhy02094)
   
 
 <!--
