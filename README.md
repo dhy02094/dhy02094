@@ -28,10 +28,11 @@
      HAVE A GOOD DAY!
   
   
-
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhy02904)](https://solved.ac/dhy02904)  
-<p align="left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy"> 
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhy02904)](https://solved.ac/dhy02904)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy"> 
+ </div>
 
 
   
