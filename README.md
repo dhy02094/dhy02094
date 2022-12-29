@@ -11,7 +11,9 @@
 
 
 ### Hi  👋
-    
+    ... 
+    2022-07 : ktds
+    2022-08 - 12 : 신한 메타버스플랫폼 Inside, Web개발 (Spring(jpa, mybatis), Vue2)
     ... 
     - 🌱 spring 공부중입니다.
     -  🔭 VUE 공부중입니다.
