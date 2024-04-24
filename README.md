@@ -12,12 +12,12 @@
 
 ### Hi  👋
     ... 
-    2022-07 : ktds
-    2022-08 - 12 : 신한 메타버스플랫폼 Inside, Web개발 (Spring(jpa, mybatis), Vue2)
+    22- 07 : ktds
+    22- 08~12 : 신한 메타버스플랫폼 Inside, Web개발 (Spring(jpa, mybatis), Vue)
+    23.11 ~ 24.02 : IBK 기업은행 AI HUB 플랫폼 도입 구축 (k8s, docker, python)
+    24.03 ~ :ktds 생성형 AI 
     ... 
-    - 🌱 spring 공부중입니다.
-    -  🔭 VUE 공부중입니다.
-    - 다합니다.
+
   
   
 
